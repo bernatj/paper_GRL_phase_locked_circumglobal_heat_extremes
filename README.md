@@ -1,6 +1,7 @@
 # Paper_GRL_phase_locked_circumglobal_heat_extremes
 
 Scripts used to reproduce the main figures in the paper "Heat Extremes Driven by Amplification of Phase-Locked Circumglobal Waves Forced by Topography in an Idealized Atmospheric Model" by B. Jiménez-Esteve, K. Kornhuber and D. I.V. Domeisen published in Geophysical Research Letters.
+https://doi.org/10.1029/2021GL096337
 
 The ICON model data can be downloaded from the following zenodo link: https://doi.org/10.5281/zenodo.7270361
 
